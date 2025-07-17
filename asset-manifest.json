@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/satya-dr/e-cell/static/css/main.43188a5e.css",
+    "main.js": "/satya-dr/e-cell/static/js/main.e4af12d3.js",
+    "static/js/453.b7549a3b.chunk.js": "/satya-dr/e-cell/static/js/453.b7549a3b.chunk.js",
+    "static/media/5.png": "/satya-dr/e-cell/static/media/5.25c3a62a54cf5c171e8d.png",
+    "static/media/etalk.png": "/satya-dr/e-cell/static/media/etalk.13bf4538c97ee1903b7f.png",
+    "static/media/startup-bootcamp.png": "/satya-dr/e-cell/static/media/startup-bootcamp.d621e5114aaaa83bb5c9.png",
+    "static/media/1.jpg": "/satya-dr/e-cell/static/media/1.a5ededf5a3093c3217fc.jpg",
+    "static/media/2.jpg": "/satya-dr/e-cell/static/media/2.3550002ad97b5b2bc032.jpg",
+    "static/media/6.png": "/satya-dr/e-cell/static/media/6.12f8c3c35c2f2481868e.png",
+    "static/media/4.jpeg": "/satya-dr/e-cell/static/media/4.6ee11988666fbe50996d.jpeg",
+    "static/media/eureca.jpeg": "/satya-dr/e-cell/static/media/eureca.49bdef42bc57caed89be.jpeg",
+    "static/media/about-ecell.jpeg": "/satya-dr/e-cell/static/media/about-ecell.927428617a59e6635837.jpeg",
+    "static/media/nec.jpeg": "/satya-dr/e-cell/static/media/nec.3d0b9549c66a4ddd49e8.jpeg",
+    "static/media/2.jpeg": "/satya-dr/e-cell/static/media/2.75edba0011ac8d08fb43.jpeg",
+    "static/media/3.jpg": "/satya-dr/e-cell/static/media/3.2a892a569e025189e3df.jpg",
+    "static/media/logo.png": "/satya-dr/e-cell/static/media/logo.eb2c414d8c73cc5de312.png",
+    "static/media/1.jpeg": "/satya-dr/e-cell/static/media/1.1070eb6a074b5271b264.jpeg",
+    "static/media/5.jpg": "/satya-dr/e-cell/static/media/5.9ccd278c9953818e2633.jpg",
+    "static/media/3.jpeg": "/satya-dr/e-cell/static/media/3.80d75b03ca351e818ccd.jpeg",
+    "static/media/7.jpg": "/satya-dr/e-cell/static/media/7.aac5e46520fb9bedb92e.jpg",
+    "index.html": "/satya-dr/e-cell/index.html",
+    "main.43188a5e.css.map": "/satya-dr/e-cell/static/css/main.43188a5e.css.map",
+    "main.e4af12d3.js.map": "/satya-dr/e-cell/static/js/main.e4af12d3.js.map",
+    "453.b7549a3b.chunk.js.map": "/satya-dr/e-cell/static/js/453.b7549a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43188a5e.css",
+    "static/js/main.e4af12d3.js"
+  ]
+}
