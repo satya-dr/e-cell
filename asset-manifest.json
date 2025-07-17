@@ -1,32 +1,41 @@
 {
   "files": {
     "main.css": "/e-cell/static/css/main.43188a5e.css",
-    "main.js": "/e-cell/static/js/main.d03baaed.js",
+    "main.js": "/e-cell/static/js/main.dfb510c4.js",
     "static/js/453.b7549a3b.chunk.js": "/e-cell/static/js/453.b7549a3b.chunk.js",
     "static/media/5.png": "/e-cell/static/media/5.25c3a62a54cf5c171e8d.png",
     "static/media/etalk.png": "/e-cell/static/media/etalk.13bf4538c97ee1903b7f.png",
     "static/media/startup-bootcamp.png": "/e-cell/static/media/startup-bootcamp.d621e5114aaaa83bb5c9.png",
     "static/media/1.jpg": "/e-cell/static/media/1.a5ededf5a3093c3217fc.jpg",
     "static/media/2.jpg": "/e-cell/static/media/2.3550002ad97b5b2bc032.jpg",
+    "static/media/10.jpg": "/e-cell/static/media/10.cc6e2707c3e09c4321c4.jpg",
+    "static/media/16.jpg": "/e-cell/static/media/16.bab1a7fa08279079f423.jpg",
+    "static/media/14.jpg": "/e-cell/static/media/14.ac303123432155c2be90.jpg",
     "static/media/6.png": "/e-cell/static/media/6.12f8c3c35c2f2481868e.png",
+    "static/media/12.webp": "/e-cell/static/media/12.c0f7f2e501f26036e76d.webp",
+    "static/media/11.jpg": "/e-cell/static/media/11.731455c74999c62376aa.jpg",
     "static/media/4.jpeg": "/e-cell/static/media/4.6ee11988666fbe50996d.jpeg",
     "static/media/eureca.jpeg": "/e-cell/static/media/eureca.49bdef42bc57caed89be.jpeg",
     "static/media/about-ecell.jpeg": "/e-cell/static/media/about-ecell.927428617a59e6635837.jpeg",
     "static/media/nec.jpeg": "/e-cell/static/media/nec.3d0b9549c66a4ddd49e8.jpeg",
     "static/media/2.jpeg": "/e-cell/static/media/2.75edba0011ac8d08fb43.jpeg",
     "static/media/3.jpg": "/e-cell/static/media/3.2a892a569e025189e3df.jpg",
+    "static/media/8.jpg": "/e-cell/static/media/8.33a7bb1e071ee51d463a.jpg",
     "static/media/logo.png": "/e-cell/static/media/logo.eb2c414d8c73cc5de312.png",
     "static/media/1.jpeg": "/e-cell/static/media/1.1070eb6a074b5271b264.jpeg",
     "static/media/5.jpg": "/e-cell/static/media/5.9ccd278c9953818e2633.jpg",
     "static/media/3.jpeg": "/e-cell/static/media/3.80d75b03ca351e818ccd.jpeg",
+    "static/media/13.jpg": "/e-cell/static/media/13.a13b9a71018df883dc9a.jpg",
+    "static/media/9.jpg": "/e-cell/static/media/9.6e7aba4d8b0e6c28f60e.jpg",
     "static/media/7.jpg": "/e-cell/static/media/7.aac5e46520fb9bedb92e.jpg",
+    "static/media/15.jpg": "/e-cell/static/media/15.1dc280ca4abb5317890a.jpg",
     "index.html": "/e-cell/index.html",
     "main.43188a5e.css.map": "/e-cell/static/css/main.43188a5e.css.map",
-    "main.d03baaed.js.map": "/e-cell/static/js/main.d03baaed.js.map",
+    "main.dfb510c4.js.map": "/e-cell/static/js/main.dfb510c4.js.map",
     "453.b7549a3b.chunk.js.map": "/e-cell/static/js/453.b7549a3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43188a5e.css",
-    "static/js/main.d03baaed.js"
+    "static/js/main.dfb510c4.js"
   ]
 }
