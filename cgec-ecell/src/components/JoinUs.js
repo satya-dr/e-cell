@@ -12,7 +12,7 @@ const JoinUs = () => (
       <Button
         variant="warning"
         size="lg"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSctstrI8B4QyL_lqm1UIi58haJW4DbdkYNYGXedhwkWo6YnRg/viewform?usp=header" // Replace with actual Google Form link
+        href="https://docs.google.com/forms/d/e/1FAIpQLSeZlckMh-9VpD41_dK7cTyoTcpKT5OKffe087RLlmPqAMrhVQ/viewform?usp=send_form" // Replace with actual Google Form link
         target="_blank"
         rel="noopener noreferrer"
       >
