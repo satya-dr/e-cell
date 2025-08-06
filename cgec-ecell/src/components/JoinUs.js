@@ -1,4 +1,4 @@
-// File: src/components/JoinUs.js
+
 import React from 'react';
 import { Container, Button } from 'react-bootstrap';
 
@@ -12,7 +12,11 @@ const JoinUs = () => (
       <Button
         variant="warning"
         size="lg"
+<<<<<<< HEAD
         href="https://docs.google.com/forms/d/e/1FAIpQLSeZlckMh-9VpD41_dK7cTyoTcpKT5OKffe087RLlmPqAMrhVQ/viewform?usp=send_form" // Replace with actual Google Form link
+=======
+        href="https://forms.gle/EVHapUBpaePP98Mc7" 
+>>>>>>> c4b7cf4 (Googlr form link change)
         target="_blank"
         rel="noopener noreferrer"
       >

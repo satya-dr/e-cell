@@ -1,4 +1,4 @@
-// File: src/components/Initiatives.js
+
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import startup_bootcamp from '../assets/images/startup-bootcamp.png';

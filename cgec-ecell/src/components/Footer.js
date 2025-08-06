@@ -1,4 +1,4 @@
-// File: src/components/Footer.js
+
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import { FaLinkedin, FaInstagram, FaEnvelope } from 'react-icons/fa';
@@ -17,7 +17,7 @@ const Footer = () => (
           <FaEnvelope size={24} />
         </a>
       </div>
-      <p className="mb-0">&copy; {new Date().getFullYear()} CGEC ECELL. All rights reserved.</p>
+      <p className="mb-0">&copy; {new Date().getFullYear()} CGEC ECELL. All rights reserved.| Made by React with ❤️</p>
     </Container>
   </footer>
 );

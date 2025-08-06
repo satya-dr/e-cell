@@ -1,4 +1,4 @@
-// File: src/components/About.js
+
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import aboutImg from '../assets/images/about-ecell.jpeg';
